@@ -28,4 +28,4 @@ managedNodeGroups:
     maxSize: 4
     ssh:
       allow: true
-      publicKeyName: manuaws_25.pub
+      publicKeyName: manuaws_25
